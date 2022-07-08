@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Travis Raymond</h1>
+
 <h3 align="center">Python, Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travdev87&label=Profile%20views&color=0e75b6&style=flat" alt="travdev87" /> </p>
@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Python, Javascript**
 
 - 💬 Ask me about **Python, Javascript**
-
-- 📫 How to reach me **travisray150@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
